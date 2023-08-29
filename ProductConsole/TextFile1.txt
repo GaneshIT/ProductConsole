@@ -1,0 +1,13 @@
+﻿1. C# program
+2. OOPS
+3. control statments-For loop
+
+4. C# File handling
+
+namespace: System.IO;
+
+ File proces:
+	1. create a file
+	2. open file
+	3. read/write operation
+	4. close file
