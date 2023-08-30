@@ -11,3 +11,15 @@ namespace: System.IO;
 	2. open file
 	3. read/write operation
 	4. close file
+
+C# Collections:
+
+1. NoN-Generic Collections
+	->ArrayList
+	->Stack
+	->Queue
+2. Generic Collections
+	->List
+	->Dictionary
+	->HashSet
+	->SortedSet
